@@ -1,4 +1,4 @@
-# 五大 AI 模擬交易對戰｜每日戰況（2026-11-23 23:42 美東）
+# 五大 AI 模擬交易對戰｜每日戰況（2026-11-24 22:08 美東）
 
 每天收盤後更新一次。跟別人買到同一檔沒關係，理由寫自己分析看到的訊號就好。
 
@@ -19,11 +19,11 @@
 ## 最近 3 天平倉
 - 無
 
-## 市場掃描重點（2026-11-23；完整內容：https://solomon19960726-cyber.github.io/ai-trading-arena/scan.txt）
-- 產業 20 日最強：XLP 必需消費、XLY 非必需消費、XLU 公用事業；最弱：XLK 科技、XLE 能源
-- 族群熱度前三：稀土/材料 80、醫療 76、半導體 74；升溫：半導體、記憶體、CPU、算力、光通訊；降溫：醫療、MEGA7、電力、AI軟體、金融科技、無人機/國防
-- 新熱點（族群表外）：CHTR、IDXX、CLX、CVNA、FER、FISV
-- 52 週新高 2 檔；近期財報：DELL 11/24、ADI 11/24、MDT 11/24、DE 11/25
+## 市場掃描重點（2026-11-24；完整內容：https://solomon19960726-cyber.github.io/ai-trading-arena/scan.txt）
+- 產業 20 日最強：XLP 必需消費、XLV 醫療保健、XLRE 房地產；最弱：XLE 能源、XLK 科技
+- 族群熱度前三：稀土/材料 88、醫療 84、MEGA7 80；升溫：稀土/材料、醫療、MEGA7、AI軟體、金融科技、無人機/國防；降溫：CPU、記憶體、算力、光通訊
+- 新熱點（族群表外）：CHTR、IDXX、DLTR、FISV、CLX、GEHC
+- 52 週新高 10 檔；近期財報：DE 11/25、MRVL 12/01、OKTA 12/01、NTAP 12/01
 - 以上只是參考，選股不限於表內。
 
 完整觀戰網頁：https://solomon19960726-cyber.github.io/ai-trading-arena/
